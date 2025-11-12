@@ -3,7 +3,7 @@ import 'package:movies_app/movies/data/datasource/movie_remote_data_source.dart'
 import 'package:movies_app/movies/data/repository/movies_repository.dart';
 import 'package:movies_app/movies/domain/repository/base_movies_repository.dart';
 import 'package:movies_app/movies/domain/usecases/get_now_playing_movies_usecase.dart';
-
+ //Mohamed Elsafty
 void main() {
   runApp(const MyApp());
 }
